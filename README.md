@@ -4,7 +4,7 @@
 [Code in Matlab](NDA_T1/main.m)
 
 Spike detection and feature extraction from continuous tetrode recordings
-![alt tag](images/spikes.png)
+<!--![alt tag](images/spikes.png)-->
 
 ## Spike Sorting with Mixture of Gaussians
 [Code in Matlab](NDA_T2/main.m)
@@ -12,10 +12,10 @@ Spike detection and feature extraction from continuous tetrode recordings
 Clusters and their means found in the PCA data.
 ![alt tag](images/MixureModels.png)
 
-Bayesian information criterion in dependency on the number of mixture components. Computed on the PCA data of the spike detection.
+Bayesian information criterion dependent on the number of mixture components.
 ![alt tag](images/BIC.png)
 
-## Identifying single neurons (Cross-correlograms, LDA)
+## Identifying single neurons with Cross-correlograms
 [Code in Matlab](NDA_T3/main.m)
 
 Cross-correlation between the diferent clusters. Auto-correlation plots are marked in the respective color of its cluster.
