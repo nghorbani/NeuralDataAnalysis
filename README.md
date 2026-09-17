@@ -1,5 +1,8 @@
 # Neural Data Analysis
 
+**Status:** Archived 2026-09-17. Course or project material from 2016; kept for reference, not maintained; issues are read-only. The data link in the repository description (https://bit.ly/3g8RUmi) resolved to a shared Google Drive folder on 2026-09-16.
+
+
 ## Spike detection, Feature extraction
 [Code in Matlab](NDA_T1/main.m)
 
